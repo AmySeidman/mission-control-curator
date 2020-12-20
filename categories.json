@@ -5,11 +5,15 @@
     "description": "projects focused on decentralized finance or open finance",
     "subcategories": [
       {
+        "name": "Bonds",
+        "slug": "bonds",
+        "description": "apps and protocols that issue a cryptocurrency, including stablecoins, ERC20s and non-fungible tokens"
+      },
+      {
         "name": "Currencies",
         "slug": "currencies",
         "description": "apps and protocols that issue a cryptocurrency, including stablecoins, ERC20s and non-fungible tokens"
       },
-
       {
         "name": "Derivatives",
         "slug": "derivatives",
@@ -77,7 +81,7 @@
     "slug": "education",
     "description": "any projects focused on education and learning provision, including institutional academia, technical skills learning, Web3 resources and more"
   },
-
+  
   {
     "name": "Energy",
     "slug": "energy",
@@ -144,16 +148,195 @@
         "name": "Virtual Reality",
         "slug": "virtual-reality",
         "description": "PLACEHOLDER"
-      }
-    ]
+      },
+]
   },
-  {
+ {
     "name": "Environment",
     "slug": "environment",
-    "description": "PLACEHOLDER"
+    "description": "projects focused on the environment",
+    "subcategories": [
+      {
+        "name": “atmosphere”,
+        "slug": "atmosphere",
+        "description": “projects focusing on air“
+      },
+      {
+        "name": "Hydrosphere",
+        "slug": "Hydrosphere",
+        "description": “projects focusing on water“
+      },
+      {
+        "name": "Lithosphere",
+        "slug": "lithosphere",
+        "description": “projects focusing on land“
+      },
+      {
+        "name": "Biosphere",
+        "slug": "biosphere",
+        "description": “projects focusing on living things“
+      },
+ ]
+ {
+    "name": "Environmental Issues”,
+    "slug": "environmental-issues”,
+    "description": "projects focused on the environmental issues“,
+    "subcategories": [
+      {
+        "name": "Air Pollution",
+        "slug": “air-pollution",
+        "description": “air pollution, substances in the atmosphere that are harmful to health”
+      },
+      {
+        "name": “Biodiversity”,
+        "slug": “biodiversity”,
+        "description": “issues threatening biodiversity and interdependency”
+      },
+      {
+        "name": “Chemicals”,
+        "slug": “chemicals”,
+        "description": “unnatural substances, toxins and pollutants”
+      },
+      {
+        "name": “Climate Change“,
+        "slug": “climate-change”,
+        "description": “climate imbalance due to pollution and human stress on natural systems“
+      },
+      {
+        "name": “Environment And Health”,
+        "slug": “environment-and-health”,
+        "description": “affects of environmental issues on human health”
+      },      
+      {
+        "name": “Environmental Scenarios“,
+        "slug": “environmental-scenarios”,
+        "description": “projects focused on environmental scenarios”
+      },
+      {
+        "name": “Land Use“,
+        "slug": “land-use”,
+        "description": “land use as it pertains to environmental damage and stress of ecosystems”
+      },
+      {
+        "name": “Natural Resources“,
+        "slug": “natural-reseources”,
+        "description": “to cause harm to natural systems by over use”
+      },
+      {
+        "name": “Noise”,
+        "slug": “noise”,
+        "description": “noise disturbances above and below land“
+      },      {
+        "name": “Soil”,
+        "slug": “soil”,
+        "description": “the state of soil health”
+      },
+      {
+        "name": “Waste And Material Resources“,
+        "slug": “waste-and-material-resources”,
+        "description": “garbage and recycling”
+      },
+      {
+        "name": “Water”,
+        "slug": “water”,
+        "description": “water and water systems including ground water, rivers, oceans”
+      },
+]
+ {
+    "name": "Environmental Regions”,
+    "slug": "environmental-regions”,
+    "description": "projects focused on the different environmental areas and regions“,
+    "subcategories": [
+      {
+        "name": “Coasts and Seas”,
+        "slug": “coasts-and-seas”,
+        "description": “projects focusing on coasts and seas”
+      },
+      {
+        "name": “Deserts”,
+        "slug": “deserts”,
+        "description": “projects focusing on deserts”
+      },
+      {
+        "name": “Forests”,
+        "slug": “forest”,
+        "description": “projects focusing on forests”
+      },
+      {
+        "name": “Mountains”,
+        "slug": “mountains”,
+        "description": “projects focusing on mountains”
+      },
+      {
+        "name": “Rivers and Lakes”,
+        "slug": “rivers and lakes”,
+        "description": “projects focusing on rivers and lakes”
+      },
+      {
+        "name": “Wetlands and Marshes“,
+        "slug": “wetlands-and-marshes”,
+        "description": “projects focusing on wetlands and marshes”
+      },
+]
   },
-
-  {
+ {
+    "name": "Environmental Sectors and Activities“,
+    "slug": "environmental-sectors-and-activities”,
+    "description": "projects focused on the environmental sectors and activities“,
+    "subcategories": [
+      {
+        "name": “Agriculture”,
+        "slug": “agriculture”,
+        "description": “projects focused on chemical free and organic agriculture including permaculture and other practices”
+      },
+      {
+        "name": “Environmental Technology“,
+        "slug": “environmental-technology”,
+        "description": “projects focused on environmental technology”
+      },
+      {
+        "name": “Green Economy“,
+        "slug": “green-economy”,
+        "description": “projects focused on green economy and finance that supports a healthy environment”
+      },
+      {
+        "name": “Household Consumption”,
+        "slug": “household-consumption”,
+        "description": “projects focused on reducing or addressing waste in household consumption”
+      },
+      {
+        "name": “Industry”,
+        "slug": “industry”,
+        "description": “projects focused on sustainable industry”
+      },
+      {
+        "name": “Policy”,
+        "slug": “policy”,
+        "description": “projects focused on environmental policy”
+      },
+      {
+        "name": “Renewable Energy”,
+        "slug": “renewable-energy”,
+        "description": “projects focused on renewable energy”
+      },
+      {
+        "name": “Sustainable Fishing”,
+        "slug": “fisheries”,
+        "description": “projects focused on sustainable fishing and fisheries”
+      },
+      {
+        "name": “Tourism”,
+        "slug": “tourism”,
+        "description": “projects focused on eco-tourism”
+      },
+      {
+        "name": “Transport”,
+        "slug": “sustainable-transport”,
+        "description": “projects focused on sustainable transportation”
+      },
+ ]
+  },
+ {
     "name": "Events",
     "slug": "events",
     "description": "projects focused on supporting events, including ticketing, sponsorships or event planning"
